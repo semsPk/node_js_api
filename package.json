@@ -13,6 +13,7 @@
   "author": "lintangwisesa",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "mongodb": "^3.3.4",
     "mosca": "^2.8.3",
     "mqtt": "^3.0.0",
